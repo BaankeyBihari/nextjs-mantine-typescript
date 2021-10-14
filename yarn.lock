@@ -413,10 +413,10 @@
   dependencies:
     "@mantine/ssr" "3.0.3"
 
-"@mantine/notifications@3.0.3":
-  version "3.0.3"
-  resolved "https://registry.yarnpkg.com/@mantine/notifications/-/notifications-3.0.3.tgz#155f9b332c9d9df8ea76f35c09ed125914bea250"
-  integrity sha512-UmZnGva5zZmDMKro5nIWUVKa1L3jWjpeYd5N8ug7suaaXXnI/0zLBoyAtrT6XzayGNk4gLuND1djPSuTEvm6Vg==
+"@mantine/notifications@3.0.4":
+  version "3.0.4"
+  resolved "https://registry.yarnpkg.com/@mantine/notifications/-/notifications-3.0.4.tgz#2c6288d9b7b4a36f57f19d2975d492a75e623922"
+  integrity sha512-SYXnHPY2xnWH42nwJAK0jDBkUkFnruaqqui67JWVUpiXbo6Z49nyfPujfeq4ssGgW6GoIN6E5QF7HqzmhgopSw==
   dependencies:
     clsx "^1.1.1"
     react-transition-group "^4.4.2"

@@ -18,7 +18,7 @@
     "@mantine/dropzone": "3.0.3",
     "@mantine/hooks": "3.0.3",
     "@mantine/next": "3.0.3",
-    "@mantine/notifications": "3.0.3",
+    "@mantine/notifications": "3.0.4",
     "consola": "2.15.3",
     "dayjs": "1.10.7",
     "next": "11.1.2",
